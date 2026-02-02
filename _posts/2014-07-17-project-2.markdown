@@ -4,7 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: MITRE-MASE-vehicle.jpg
+images:
+- img: MITRE-MASE-vehicle.jpg
 thumbnail: MITRE-MASE-vehicle.jpg
 alt: image-alt
 project-date: April 2014

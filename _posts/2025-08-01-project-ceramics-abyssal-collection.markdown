@@ -5,17 +5,17 @@ layout: default
 modal-id: 7
 date: 2024-04-14
 images:
-- img: collection-edited.jpg
-- img: ceramics-abyssal-family-photo.jpg
-- img: ceramics-abyssal-teapot.JPG
-- img: ceramics-abyssal-cups.JPG
-- img: ceramics-abyssal-matcha-set.JPG
-- img: ceramics-abyssal-jar.JPG
-- img: ceramics-abyssal-bowl.JPG
-- img: ceramics-abyssal-whisk-holder.JPG
-- img: ceramics-abyssal-scoop-holder.JPG
-thumbnail: collection-edited.jpg
-alt: image-alt
+- img: abyssal-family.jpg
+- img: abyssal-extended-family.jpg
+- img: abyssal-teapot.JPG
+- img: abyssal-cups.JPG
+- img: abyssal-matcha.JPG
+- img: abyssal-jar.JPG
+- img: abyssal-bowl.JPG
+- img: abyssal-whisk-holder.JPG
+- img: abyssal-scoop-holder.JPG
+thumbnail: abyssal-family.jpg
+alt: a mottled, gray ceramic tea and matcha set with organic forms
 project-date: September, 2025
 category: Ceramics
 description: Ceramic matcha set, medium stoneware, Cone 10 soda fired.

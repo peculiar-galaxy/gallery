@@ -1,0 +1,14 @@
+---
+title: Autonomous Vehicle Work
+subtitle: Motion Planning for MITRE MASE Jeep
+layout: default
+modal-id: 2
+date: 2014-07-17
+images:
+- img: mase-thumbnail.jpg
+thumbnail: mase-thumbnail.jpg
+alt: The MITRE MASE Autonomous Jeep.
+project-date: August 2022 - January 2024
+category: Robotics
+description: Contributed to motion planner for off-road self-driving. Led field integration with operational vehicles and created project-wide automated unit and integration testing. C++, Python, ROS, GitlabCI, gtest, Agile, Kanban.  
+---

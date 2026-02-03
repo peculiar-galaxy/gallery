@@ -5,7 +5,8 @@ layout: default
 modal-id: 7
 date: 2024-04-14
 images:
-- img: ceramics-abyssal-collection.jpg
+- img: collection-edited.jpg
+- img: ceramics-abyssal-family-photo.jpg
 - img: ceramics-abyssal-teapot.JPG
 - img: ceramics-abyssal-cups.JPG
 - img: ceramics-abyssal-matcha-set.JPG
@@ -13,8 +14,7 @@ images:
 - img: ceramics-abyssal-bowl.JPG
 - img: ceramics-abyssal-whisk-holder.JPG
 - img: ceramics-abyssal-scoop-holder.JPG
-img: ceramics-abyssal-collection.jpg
-thumbnail: ceramics-abyssal-collection.jpg
+thumbnail: collection-edited.jpg
 alt: image-alt
 project-date: September, 2025
 category: Ceramics

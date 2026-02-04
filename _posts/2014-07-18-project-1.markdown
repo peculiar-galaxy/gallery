@@ -1,6 +1,6 @@
 ---
 title: Healthcare Robot
-subtitle: Autonomous Mobile Robot for Contact-Less Vital-Sign Measurement
+subtitle: autonomous mobile robot for vital-sign measurement
 layout: default
 modal-id: 1
 date: 2024-04-14

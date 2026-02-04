@@ -1,6 +1,6 @@
 ---
 title: River
-subtitle: Acrylic on canvas.
+subtitle: acrylic on canvas
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -12,5 +12,5 @@ thumbnail: kat-no-frame.jpg
 alt: an acrylic painting of a white, Birman cat on a lap.
 project-date: April, 2024
 category: 2D Art
-description: Acrylic on canvas.
+description: acrylic on canvas
 ---

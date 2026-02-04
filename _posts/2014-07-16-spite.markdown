@@ -1,6 +1,6 @@
 ---
 title: Cityscape for <i>Steam + Spite</i> 
-subtitle: Charcoal and Ink Drawing. Comissioned by Cristin Heinz-Heart for the <i>Steam + Spite</i> game.
+subtitle: charcoal and ink | comissioned by Cristin Heinz-Heart for the <i>Steam + Spite</i> game 
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,5 +10,5 @@ thumbnail: spite.jpg
 alt: A charcoal and ink drawing of a dystopian, victorian cityscape with a train in the foreground.
 project-date: December, 2025
 category: 2D Art
-description: Charcoal and Ink Drawing. Comissioned by Cristin Heinz-Heart for the <i>Steam + Spite</i> game.
+description: charcoal and ink | comissioned by Cristin Heinz-Heart for the <i>Steam + Spite</i> game 
 ---

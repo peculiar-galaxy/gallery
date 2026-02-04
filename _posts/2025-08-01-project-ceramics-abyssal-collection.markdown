@@ -1,6 +1,6 @@
 ---
 title: Abyssal Tea
-subtitle: Ceramic matcha set, medium stoneware, Cone 10 soda fired.
+subtitle: ceramic matcha set | medium stoneware | oribe green | soda fired | cone 10
 layout: default
 modal-id: 7
 date: 2024-04-14
@@ -18,6 +18,6 @@ thumbnail: abyssal-family.jpg
 alt: a mottled, gray ceramic tea and matcha set with organic forms
 project-date: September, 2025
 category: Ceramics
-description: Ceramic matcha set, medium stoneware, Cone 10 soda fired.
+description: ceramic matcha set | medium stoneware | oribe green | soda fired | cone 10
 
 ---

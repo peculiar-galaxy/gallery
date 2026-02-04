@@ -1,0 +1,16 @@
+---
+title: Castle in the Clouds
+subtitle: Acrylic on canvas.
+layout: default
+modal-id: 8
+date: 2014-07-15
+images:
+- img: cloud.jpg
+- img: cloud-easel.jpg
+- img: cloud-easel-wide.jpg
+thumbnail: cloud.jpg
+alt: an acrylic painting of a view from a balcony, with the National Cathedral in the background, and a cutaway view of an apartment in the foreground.
+project-date: January, 2026
+category: 2D Art
+description: Acrylic on canvas.
+---

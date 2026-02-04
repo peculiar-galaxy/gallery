@@ -1,17 +1,14 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Cityscape for <i>Steam + Spite</i> 
+subtitle: Charcoal and Ink Drawing. Comissioned by Cristin Heinz-Heart for the <i>Steam + Spite</i> game.
 layout: default
 modal-id: 3
 date: 2014-07-16
-images:
-- img: roundicons.png
-- img: roundicons.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+images: 
+- img: spite.jpg
+thumbnail: spite.jpg
+alt: A charcoal and ink drawing of a dystopian, victorian cityscape with a train in the foreground.
+project-date: December, 2025
 category: 2D Art
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Charcoal and Ink Drawing. Comissioned by Cristin Heinz-Heart for the <i>Steam + Spite</i> game.
 ---

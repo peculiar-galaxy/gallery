@@ -1,0 +1,19 @@
+---
+title: Gargoyle Tea
+subtitle: Ceramic cake plate, teapot, and stacking mugs. Medium stoneware. Cone 10.
+layout: default
+modal-id: 5
+date: 2014-07-14
+images:
+- img: gargoyle-family.jpg
+- img: gargoyle-tower.jpg
+- img: gargoyle-mugs.jpg
+- img: gargoyle-cathedral.jpg
+- img: gargoyle-egg.jpg
+thumbnail: gargoyle-family.jpg
+alt: image-alt
+project-date: September, 2025
+category: Ceramics
+description: Ceramic cake plate, teapot, and stacking mugs. Medium stoneware. Cone 10.
+
+---

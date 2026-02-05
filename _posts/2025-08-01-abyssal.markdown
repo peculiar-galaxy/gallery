@@ -7,7 +7,7 @@ date: 2024-04-14
 images:
 - img: abyssal-family.jpg
 - img: abyssal-extended-family.jpg
-- img: abyssal-teapot.
+- img: abyssal-teapot.jpg
 - img: abyssal-cups.jpg
 - img: abyssal-matcha.jpg
 - img: abyssal-jar.jpg

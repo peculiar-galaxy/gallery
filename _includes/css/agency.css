@@ -272,7 +272,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/moss-header.jpg');
+    background-image: url('{{ site.baseurl }}/img/moss-header.JPG');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -661,7 +661,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/moss-header.jpg');
+    background-image: url('{{ site.baseurl }}/img/moss-header.JPG');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

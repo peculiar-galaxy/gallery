@@ -5,8 +5,8 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 images: 
-- img: spite.jpg
-thumbnail: spite.jpg
+- img: spite.JPG
+thumbnail: spite.JPG
 alt: A charcoal and ink drawing of a dystopian, victorian cityscape with a train in the foreground.
 project-date: December, 2025
 category: 2D Art

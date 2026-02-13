@@ -11,6 +11,7 @@ alt: image-alt
 project-date: January, 2022 - May, 2024
 client: MITRE
 category: Robotics
-description: Contributed to the building of a Healthcare Robot. Lead development of the robot's behavior tree and localization system with Ultra Wide Band beacons. Published in <i>Advances in an Autonomous Healthcare Mobile Robot for Contact-Less Vital-Sign Measurement</i>.
-
+description: "Contributed to the building of a Healthcare Robot. Lead development of the robot's behavior tree and localization system with Ultra Wide Band beacons."
+publication: "K. T. Dickey, C. Frazelle, A. Kealiher, N. Renninger and A. S. Kapusta, \"Advances in an Autonomous Healthcare Mobile Robot for Contact-Less Vital-Sign Measurement,\" 2025 International Symposium on Medical Robotics (ISMR), Atlanta, GA, USA, 2025, pp. 16-22, doi: 10.1109/ISMR67322.2025.11025987."
+publication_link: "https://doi.org/10.1109/ISMR67322.2025.11025987"
 ---

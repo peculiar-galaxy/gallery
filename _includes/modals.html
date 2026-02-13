@@ -16,6 +16,7 @@
                             <br><br>
                                 <p>{{ post.description }}</p>
                                 <p>{{ post.project-date }}</p>
+                                <a href="{{ post.publication_link }}">{{ post.publication }}</a>
                             <hr class="star-primary">
                             {% for item in post.images %}
                             <img src="img/portfolio-original/{{post.category | slugify }}/{{item.img}}" class="img-responsive img-centered" alt="{{ post.alt }}">

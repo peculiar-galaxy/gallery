@@ -10,5 +10,5 @@ thumbnail: mase-thumbnail.jpg
 alt: The MITRE MASE Autonomous Jeep.
 project-date: August 2022 - January 2024
 category: Robotics
-description: Contributed to motion planner for off-road self-driving. Led field integration with operational vehicles including MITRE MASE Jeep (pictured) and created project-wide automated unit and integration testing. C++, Python, ROS, GitlabCI, gtest, Agile, Kanban.  
+description: The team created a motion planner for autonomous, off-road self-driving in unpredictable environments and cluttered terrain. On this project, I served as the Task Lead for field integration (with operational vehicles including the MITRE MASE Autonomous Jeep, pictured) and software testing (creating project-wide automated unit and integration testing). Used C++, Python, ROS, GitlabCI, gtest, and Agile project management methodologies.  
 ---

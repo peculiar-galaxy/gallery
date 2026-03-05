@@ -5,10 +5,10 @@ layout: default
 modal-id: 9
 date: 2014-07-15
 images:
-- img: book.JPG
+- img: book.jpg
 - img: book-spread.jpg
-- img: book-open.JPG
-thumbnail: book.JPG
+- img: book-open.jpg
+thumbnail: book.jpg
 alt: a handmade artist book bound with marbled paper and sketches
 project-date: January, 2026
 category: Mixed Media

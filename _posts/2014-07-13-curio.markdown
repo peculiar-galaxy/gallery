@@ -1,0 +1,18 @@
+---
+title: Cabinet of Curiosities
+subtitle: charcoal, watercolor, gouache, graphite, found objects and ephemera
+layout: default
+modal-id: 9
+date: 2014-07-15
+images:
+- img: curio-full.jpg
+- img: curio-skull.jpg
+- img: curio-feather.jpg
+- img: curio-crystal.jpg
+thumbnail: curio-full.jpg
+alt: a shadow box containing a charcoal drawing of a racoon skull, a watercolor of an owl feather, a graphite drawing of a crystal, and assorted found objects and ephemera.
+project-date: February, 2026
+category: Mixed Media
+description: charcoal, watercolor, gouache, graphite, found objects and ephemera
+
+---
